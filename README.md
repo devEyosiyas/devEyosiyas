@@ -56,9 +56,6 @@ class Skills extends SoftwareDeveloper {
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devEyosiyas&theme=onestar&count_private=true&include_all_commits=true" alt="devEyosiyas" />
 </a>
 
-<a href="http://www.github.com/devEyosiyas"><img src="https://activity-graph.herokuapp.com/graph?username=devEyosiyas&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
 ---
 #### 📫 How to reach me:
 [![Twitter Badge](https://img.shields.io/badge/-devEyosi-grey?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/devEyosi/)](https://twitter.com/devEyosi/)
